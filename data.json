@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "lname": "Ahmed",
+        "fname": "Mariam",
+        "age": 19,
+        "city": "Cairo"
+    },
+    {
+        "id": 2,
+        "lname": "Mohamed",
+        "fname": "Ali",
+        "age": 21,
+        "city": "Giza"
+    },
+    {
+        "id": 3,
+        "lname": "Hassan",
+        "fname": "Sara",
+        "age": 20,
+        "city": "Alexandria"
+    },
+    {
+        "id": 4,
+        "lname": "Khaled",
+        "fname": "Omar",
+        "age": 22,
+        "city": "Mansoura"
+    },
+    {
+        "id": 5,
+        "lname": "Ibrahim",
+        "fname": "Nour",
+        "age": 18,
+        "city": "Cairo"
+    },
+    {
+        "id": 6,
+        "lname": "Adel",
+        "fname": "Youssef",
+        "age": 23,
+        "city": "Tanta"
+    },
+    {
+        "id": 7,
+        "lname": "Mahmoud",
+        "fname": "Jana",
+        "age": 19,
+        "city": "Giza"
+    },
+    {
+        "id": 8,
+        "lname": "Samir",
+        "fname": "Adam",
+        "age": 24,
+        "city": "Aswan"
+    },
+    {
+        "id": 9,
+        "lname": "Mostafa",
+        "fname": "Farida",
+        "age": 20,
+        "city": "Luxor"
+    },
+    {
+        "id": 10,
+        "lname": "Tarek",
+        "fname": "Karim",
+        "age": 21,
+        "city": "Ismailia"
+    }
+]
